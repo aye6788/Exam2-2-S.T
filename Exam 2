@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<img src="C:\Users\Faby\OneDrive\Escritorio\Mi imagen.jpg" alt="Mi imagen">
+<title>Título de la página</title>
+<link rel="stylesheet" href="text-align:center"> <!-- Si deseas agregar estilos CSS, crea un archivo styles.css y enlázalo aquí -->
+<style>
+  body {
+    background-color: black;
+    color: white;
+    font-family: 'Libre Baskerville', serif;
+    text-align: center;
+  }
+  div.container {
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 20px;
+  }
+  img {
+    width: 100%;
+    border: 5px solid white;
+  }
+</style>
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@400&display=swap" rel="stylesheet">
+</head>
+<body>
+  <div class="container">
+    <h1>LIFE</h1>
+    <p>Living is trying infinite times.</p>
+
+  </div>
+</body>
+</html>
